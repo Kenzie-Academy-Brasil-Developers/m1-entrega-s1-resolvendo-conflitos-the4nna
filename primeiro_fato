@@ -1,0 +1,13 @@
+<section>
+    <h1>Primeiro fato sobre mim:</h1>
+
+    <div>
+        <aside>
+            <img src="" alt="">
+        </aside>
+        <article>
+            <h3>Primeiro fato:</h3> 
+            <p>Tenho duas gatas. Lilith e Morgana</p> 
+        </article>
+    </div>
+</section>
