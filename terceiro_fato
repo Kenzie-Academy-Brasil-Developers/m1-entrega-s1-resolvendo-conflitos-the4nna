@@ -1,0 +1,13 @@
+<section>
+    <h1>Primeiro fato sobre mim:</h1>
+
+    <div>
+        <aside>
+            <img src="" alt="">
+        </aside>
+        <article>
+            <h3>Terceiro fato:</h3> 
+            <p>Hoje em dia tenho o desejo de me tornar uma boa programadora</p> 
+        </article>
+    </div>
+</section>
